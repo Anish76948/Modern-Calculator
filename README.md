@@ -1,10 +1,10 @@
+# Modern Calculator
 
-# Calculator!
+A responsive calculator built using HTML, CSS, and JavaScript.
 
-## About Project
+Features:
+- Basic arithmetic operations
+- Clean UI
+- Responsive design
 
-We are creating this Calculator so that, other developers can get the benefits of it.
-
-Open index.html of new_cal folder.
-NAME - SWASTIKA SARANGI
-EMAIL - sarangi.swastika5@gmail.com
+This project is inspired by open-source work and modified while learning frontend development.
